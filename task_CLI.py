@@ -3,7 +3,6 @@ import json
 import os
 from datetime import datetime
 
-# Task file ka naam
 TASKS_FILE = 'tasks.json'
 
 def load_tasks():
